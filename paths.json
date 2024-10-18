@@ -4,6 +4,6 @@
     "/content/phani-site/configuration:/.helix/config.json"
   ],
   "includes:" [
-    "/content/phani-site/“
+    "/content/phani-site/"
   ]
 }
