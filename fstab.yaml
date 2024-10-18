@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p111972-e1093791.adobeaemcloud.com//bin/franklin.delivery/varma726/aem-edge-lab/main"
+    url: "https://https://author-p141721-e1451388.adobeaemcloud.com/bin/franklin.delivery/varma726/aem-edge-lab/main"
     type: "markup"
     suffix: ".html"
