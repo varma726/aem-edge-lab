@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/myedssite/:/",
-    "/content/myedssite/configuration:/.helix/config.json",
-    "/content/myedssite/metadata:/metadata.json"
+    "/content/phani-site/:/",
+    "/content/phani-site/configuration:/.helix/config.json",
+    "/content/phani-site/metadata:/metadata.json"
   ]
 }
