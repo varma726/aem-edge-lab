@@ -3,7 +3,7 @@
     "/content/phani-site/:/",
     "/content/phani-site/configuration:/.helix/config.json"
   ],
-  "includes:" [
+  "includes": [
     "/content/phani-site/"
   ]
 }
